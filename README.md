@@ -93,4 +93,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * William Penney III
 * Maciej Frik
 * Scott Andersen
+* Sergio Troconis
 * ADD YOUR NAME ABOVE HERE
